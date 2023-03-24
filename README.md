@@ -17,7 +17,7 @@
 </a>  
 </div>  
 
-- I’m currently learning Kubernetes 🐳
+- I’m currently learning Docker & Kubernetes 🐳
   
 - know how to use **MERN** stack and related **web** and **backend** technologies  
   
